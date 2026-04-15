@@ -1,0 +1,53 @@
+{
+  "name": "CALEOPRECONCEITO",
+  "slug": "caleopreconceito.com.br",
+  "description": "Conheça um pouco do nosso Corinthians Bem-vindos ao site oficial do Futebol Feminino do Corinthians! Nós somos uma equipe apaixonada pelo esporte e determinada a mudar o cenário do futebol feminino no Brasil. Acreditamos que o esporte deve ser para todos, independentemente de gênero, e estamos comprometidos em acabar com o preconceito e atrair mais público para o futebol feminino. A história do Futebol Feminino do Corinthians é marcada por grandes conquistas e por uma trajetória de luta pela igualdade de gênero no esporte. Desde a sua fundação, em 2016, a equipe vem quebrando barreiras e desafiando estereótipos, sempre com muita garra e determinação. Nós acreditamos que o futebol feminino tem o poder de transformar a sociedade, promovendo a inclusão, a diversidade e o respeito. Queremos inspirar outras pessoas a se juntarem a nós nessa luta, construindo um futuro mais justo e igualitário para o esporte. Nosso objetivo é criar uma experiência única para os nossos torcedores, oferecendo um futebol de qualidade e uma atmosfera acolhedora em nossos jogos. Queremos que todos se sintam bem-vindos em nossos estádios, independentemente do gênero, idade ou origem. Por isso, pedimos o apoio de todos os nossos fãs e seguidores para que possamos levar o Futebol Feminino do Corinthians a novos patamares. Juntos, podemos construir um futuro melhor para o esporte, baseado na igualdade, na inclusão e no respeito. Obrigado por visitar o nosso site e se juntar a nós nessa jornada!",
+  "url": "https://caleopreconceito.com.br",
+  "niche": "Esportes e Fitness",
+  "keywords": "Conheca um pouco do nosso Corinthians Bem vindos ao site oficial do",
+  "email": "contato@caleopreconceito.com.br",
+  "palette": "rose",
+  "colors": {
+    "primary": "#e11d48",
+    "accent": "#9f1239",
+    "dark": "#4c0519"
+  },
+  "headerContrast": "light",
+  "font": "montserrat",
+  "fontFamily": "'Montserrat', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-D",
+    "hero": "Hero-G",
+    "features": "Features-J",
+    "about": "About-G",
+    "posts": "Posts-H",
+    "footer": "Footer-A",
+    "sobre": "Sobre-E",
+    "contato": "Contato-B"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

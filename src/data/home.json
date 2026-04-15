@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "CALEOPRECONCEITO — Bem-vindos ao Futebol Feminino do Corinthians!",
+    "description": "Transformando o esporte e promovendo a igualdade de gênero."
+  },
+  "hero": {
+    "title": "Bem-vindos ao Futebol Feminino do Corinthians!",
+    "subtitle": "Transformando o esporte e promovendo a igualdade de gênero.",
+    "btnText": "Saiba mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossas Conquistas",
+    "items": [
+      {
+        "icon": "🏆",
+        "title": "Lutas e Vitórias",
+        "desc": "Desde 2016, temos quebrado barreiras e conquistado títulos importantes."
+      },
+      {
+        "icon": "🌍",
+        "title": "Inclusão e Diversidade",
+        "desc": "Promovemos um ambiente acolhedor para todas as pessoas, independentemente de gênero ou origem."
+      },
+      {
+        "icon": "💪",
+        "title": "Empoderamento Feminino",
+        "desc": "Acreditamos que o futebol feminino tem o poder de mudar a sociedade e inspirar futuras gerações."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "desc": "Nós somos uma equipe apaixonada por futebol e comprometida em promover a igualdade de gênero no esporte. Acreditamos que todos têm o direito de praticar e desfrutar do futebol, sem preconceitos.",
+    "stats": [
+      {
+        "value": "7",
+        "label": "Anos de história"
+      },
+      {
+        "value": "5",
+        "label": "Títulos conquistados"
+      },
+      {
+        "value": "100%",
+        "label": "Compromisso com a inclusão"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

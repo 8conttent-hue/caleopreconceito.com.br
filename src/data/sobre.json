@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o CALEOPRECONCEITO"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Nós somos uma equipe apaixonada por futebol e comprometida em promover a igualdade de gênero no esporte. Acreditamos que todos têm o direito de praticar e desfrutar do futebol, sem preconceitos."
+  },
+  "content": "O Futebol Feminino do Corinthians nasceu de uma paixão coletiva e de uma luta por igualdade. Nossa missão é inspirar e engajar a sociedade na importância do futebol feminino, quebrando estereótipos e promovendo a inclusão.",
+  "mission": "Construir um futuro mais justo e igualitário para o esporte, onde todos possam se sentir acolhidos e representados.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
